@@ -1,5 +1,9 @@
 # AmaracoreR2
 
+## Libraries Used
+Tabulator v4.9
+Bootstrap v4
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
 
 ## Development server
